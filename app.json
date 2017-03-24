@@ -1,0 +1,7 @@
+{
+  "name": "API.AI Hardware Request Webhook",
+  "description": "API.AI Hardware Request Webhook Sapmple",
+  "repository": "https://github.com/shivek-genpact/Hardware-Request",
+  "logo": "http://xvir.github.io/img/apiai.png",
+  "keywords": ["api.ai", "natural language"]
+}
